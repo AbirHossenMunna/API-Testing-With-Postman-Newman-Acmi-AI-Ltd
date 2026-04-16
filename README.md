@@ -1,6 +1,19 @@
 # Legal Assistant System
 The Legal Document Search System is a full-stack application designed to help users search, summarize, and explore legal documents efficiently.
 
+### Test Coverage Summary
+#### Functional Testing
+- Search functionality (valid/invalid query)
+- Empty input validation
+- API response validation
+#### API Testing
+- Status code validation (200, 422)
+- Response structure validation
+- Error handling scenarios
+#### Edge Cases
+- Empty query
+- No matching results
+
 ### Technology:
 - Postman
 - Newman
