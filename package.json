@@ -1,0 +1,14 @@
+{
+  "name": "collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "report.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
